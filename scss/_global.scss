@@ -1,0 +1,33 @@
+/* Global */
+
+body {
+	font-family: 'Calibri', sans-serif;
+	font-weight: 400;
+	font-size: 1em;
+	color: $secondary;
+	background-color:#0a5e60;
+	height:100%;
+}
+
+
+img {
+	max-width: 100%;
+}
+a:link {
+	color: #f68f67;
+	text-decoration: none;
+}
+a:hover {
+	color: #bde2df;
+	text-decoration: none;
+}
+a:visited {
+	color: #f68f67;
+	text-decoration: none;
+}
+
+h3{
+	font-family:"Berlin Sans FB","Arial",sans-serif;
+	font-weight:300;
+}
+

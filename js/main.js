@@ -33,7 +33,7 @@ jQuery(document).ready(function ($) {
     function goToByScroll(dataslide) {
         htmlbody.animate({
             scrollTop: $('.slide[data-slide="' + dataslide + '"]').offset().top
-        }, 4000, 'easeInOutQuint');
+        }, 1000, 'easeInOutQuint');
     }
 
 
